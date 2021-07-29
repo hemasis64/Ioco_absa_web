@@ -1,0 +1,22 @@
+2021-07-28 19:45:07,175 - Absa -INFO - Cliecked in Adduser link
+2021-07-28 19:45:07,310 - Absa -INFO - Enter the user First name: FName1
+2021-07-28 19:45:07,420 - Absa -INFO - Enter the user Last name : LName1
+2021-07-28 19:45:07,502 - Absa -INFO - Enter the user name : User1
+2021-07-28 19:45:07,589 - Absa -INFO - Enter the password : Pass1 
+2021-07-28 19:45:07,877 - Absa -INFO - Select the Customer : AAACompany 
+2021-07-28 19:45:08,391 - Absa -INFO - Select the role : Admin
+2021-07-28 19:45:08,519 - Absa -INFO - Enter Email : admin@mail.com
+2021-07-28 19:45:08,646 - Absa -INFO - Enter mobilenumber : 082555
+2021-07-28 19:45:08,965 - Absa -INFO - Cleck the Save button
+2021-07-28 19:45:09,241 - Absa -INFO - Search Added user name on the Textbox in : Fname
+2021-07-28 19:45:23,403 - Absa -INFO - Cliecked in Adduser link
+2021-07-28 19:45:23,552 - Absa -INFO - Enter the user Last name : FName2
+2021-07-28 19:45:23,644 - Absa -INFO - Enter the user name : LName2
+2021-07-28 19:45:23,747 - Absa -INFO - Enter the user name : User2
+2021-07-28 19:45:23,837 - Absa -INFO - Enter the password : Pass2 
+2021-07-28 19:45:24,152 - Absa -INFO - Select the Customer : BBBCompany 
+2021-07-28 19:45:24,613 - Absa -INFO - Select the role : Customer
+2021-07-28 19:45:24,731 - Absa -INFO - Enter Email : Cusomter@mail.com
+2021-07-28 19:45:24,843 - Absa -INFO - Enter mobilenumber : 082444
+2021-07-28 19:45:25,154 - Absa -INFO - Cleck the Save button
+2021-07-28 19:45:25,375 - Absa -INFO - Search Added user name on the Textbox in : Fname
